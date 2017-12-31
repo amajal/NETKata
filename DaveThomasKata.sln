@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata21", "Kata21\Kata21.csproj", "{B715367B-F83B-4EBE-B30B-08F74AE000F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata21Tests", "Kata21Tests\Kata21Tests.csproj", "{4F66861F-4C0D-4D60-953E-CF2041E9073A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B715367B-F83B-4EBE-B30B-08F74AE000F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B715367B-F83B-4EBE-B30B-08F74AE000F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B715367B-F83B-4EBE-B30B-08F74AE000F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B715367B-F83B-4EBE-B30B-08F74AE000F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F66861F-4C0D-4D60-953E-CF2041E9073A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F66861F-4C0D-4D60-953E-CF2041E9073A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F66861F-4C0D-4D60-953E-CF2041E9073A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F66861F-4C0D-4D60-953E-CF2041E9073A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
