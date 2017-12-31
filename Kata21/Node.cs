@@ -2,16 +2,20 @@
 {
     public class Node : INode
     {
-        private string nodeValue;
+        string _nodeValue;
 
         public Node(string nodeValue)
         {
-            this.nodeValue = nodeValue;
+            _nodeValue = nodeValue;
         }
 
         public string GetValue()
         {
-            throw new System.NotImplementedException();
+            return _nodeValue;
         }
+
+        public INode Next { get; set;}
+
+        public INode Previous { get; set; }
     }
 }

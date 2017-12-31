@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Kata21
 {
-    public interface IKataList
+    public interface ILinkedList
     {
         void Append(Node node);
         Node Contains(string value);
